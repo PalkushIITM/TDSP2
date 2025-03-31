@@ -1,0 +1,20 @@
+{
+  "name": "tdsproject2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://%3Cyour-token%3E@github.com/PalkushIITM/TDSPROJECT2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PalkushIITM/TDSPROJECT2/issues"
+  },
+  "homepage": "https://github.com/PalkushIITM/TDSPROJECT2#readme",
+  "description": ""
+}
